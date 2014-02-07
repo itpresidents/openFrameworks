@@ -1,13 +1,14 @@
 oF101
 =====
 
-<b>Download</b>
+<p><b>Download</b>
 - <a href="https://itunes.apple.com/us/app/xcode/id497799835?ls=1&mt=12" target="_blank">XCode</a>
 - <a href="http://openframeworks.cc/download/" target="_blank">openFrameworks</a>
+</p>
 
-
+<p><b></b>
 - folder structure
-- copy empty project for my project
+- my project
 - open the project
 - xcode
 - int main() {}
@@ -16,4 +17,4 @@ oF101
 - cout
 - shapes
 - interactions
-
+</p>
