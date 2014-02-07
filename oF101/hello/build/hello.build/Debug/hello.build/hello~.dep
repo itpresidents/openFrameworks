@@ -1,0 +1,7 @@
+869e338367128aa250104ce81e7b353d 3d003c6fa5234b0c9ed088a5c9fe8ec8 ffffffffffffffffffffffffffffffff 102 /Users/ez/Documents/of_v0.8.0_osx_release/apps/myApps/myProject/bin/helloDebug.app
+000000005208e07800000000000002a5 65798df93f3d10b95afe1f90d26a491c ffffffffffffffffffffffffffffffff 8 /Users/ez/Documents/of_v0.8.0_osx_release/apps/myApps/myProject/bin/helloDebug.app/Contents/PkgInfo
+000000005208e07800000000000002a5 65798df93f3d10b95afe1f90d26a491c ffffffffffffffffffffffffffffffff 1105 /Users/ez/Documents/of_v0.8.0_osx_release/apps/myApps/myProject/bin/helloDebug.app/Contents/Info.plist
+000000005208e03a00000000000000cc ab6db53977bb30d9799c8dfc864f036d ffffffffffffffffffffffffffffffff 204 /Users/ez/Documents/of_v0.8.0_osx_release/apps/myApps/myProject/bin/helloDebug.app/Contents/Frameworks/GLUT.framework
+4394068437c09969165f4cb736f9d644 6e67803e7561c3283fd38da3aecde0d8 ffffffffffffffffffffffffffffffff 7795532 /Users/ez/Documents/of_v0.8.0_osx_release/apps/myApps/myProject/bin/helloDebug.app/Contents/MacOS/helloDebug
+000000005208e07800000000000000bd 5b253644f6aad825c02f1dfe8f09e62c ffffffffffffffffffffffffffffffff 103728 /Users/ez/Documents/of_v0.8.0_osx_release/apps/myApps/myProject/build/hello.build/Debug/hello.build/Objects-normal/i386/testApp.o
+0000000052f5533500000000000004ec 18b130c093b1a53ed6705149b98411ca ffffffffffffffffffffffffffffffff 107264 /Users/ez/Documents/of_v0.8.0_osx_release/apps/myApps/myProject/build/hello.build/Debug/hello.build/Objects-normal/i386/main.o
