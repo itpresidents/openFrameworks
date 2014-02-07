@@ -6,15 +6,4 @@ oF101
 - <a href="http://openframeworks.cc/download/" target="_blank">openFrameworks</a><br/>
 </p>
 
-<p><b></b><br/>
-- folder structure<br/>
-- my project<br/>
-- open the project<br/>
-- xcode<br/>
-- int main() {}<br/>
-- open testapp.h<br/>
-- c++ / java<br/>
-- cout<br/>
-- shapes<br/>
-- interactions<br/>
-</p>
+This is resources for oF workshops.
